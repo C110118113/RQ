@@ -11,7 +11,7 @@
 - [ ] 4th thing
 
 ```python
-s = "Python Highlighting Test"
+s = "Python Highlighting syntax"
 print(s)
 ```
 
