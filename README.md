@@ -19,3 +19,13 @@ print(s)
 var s = "javascript syntax text"
 alert(s)
 ```
+Emphasis, aka italics, with *asterisks* or *underscores*.  
+Strong emphasis, aka bold, with **asterisks** or **underscores**.  
+Combines emphasis with **asterisks** and ***underscores***.  
+Strikethrough uses two tildes. ~~Scratch this~~.  
+
+
+| **Markdown** | **Less** | **Pretty** |
+| ------- | ------- | ------- |
+| *Still*      | renders  |**nicely**  |
+| 1   | 2   | 3   |
